@@ -1,0 +1,11 @@
+.view-content h1, .view-content h2, .view-content h3, .view-content h4, .view-content h5, .view-content h6, .HyperMD-header {
+	font-family: "Inter", sans-serif;
+}
+
+.inline-title {
+	font-family: "Inter", sans-serif;
+}
+
+.cm-gutterElement {
+	font-family: "JetBrains Mono", monospace;
+}

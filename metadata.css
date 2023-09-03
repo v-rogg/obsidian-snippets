@@ -1,0 +1,16 @@
+.metadata-properties-heading {
+    display: none !important;
+}
+
+.metadata-container {
+    font-family: "JetBrains Mono", monospace;
+    font-size: .9em !important;
+}
+
+.metadata-add-button {
+    font-size: 0.8em !important;
+}
+
+.metadata-button-label {
+    transform: translateY(1px);
+}

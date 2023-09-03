@@ -1,0 +1,3 @@
+#calendar-container .today {
+	color: var(--color-accent-2) !important;
+}
